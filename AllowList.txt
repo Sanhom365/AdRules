@@ -1,0 +1,37 @@
+! Title: AdRules Allowlist
+! Homepage: https://github.com/Sanhom365/AdRules
+! Powerd by Sanhom
+! Version: 2022-11-15 17:54:00(GMT+8)
+@@||jd.com^
+@@||jingxi.com^
+@@||etao.com^
+@@||tongdun.net^
+@@||taobao.com^
+@@ii.gdt.qq.com^$important
+@@||toutiao.com^
+@@||alipay.com^
+@@||bilibili.com^
+@@||dingtalk.com^
+@@tc.vip.iqiyi.com^
+@@||nolanstore.top^
+@@||oray.com^
+@@/dynv6.*/$important
+@@||openwrt.org^
+@@||github.com^
+@@me.csdn.net^
+@@mirrors.cloud.tencent.com^
+@@/docker.*/$important
+@@||my-netdata.io^
+@@||mcs.snssdk.com^$client='10.0.0.4'
+@@||edgehelper.com^
+@@||iggfastweb.com^
+@@||steamgamepowered.net^
+@@||netvigators.xyz^
+@@feed.iggapis.net^
+@@v5.iggfeed.xyz^
+@@feed.mzke3.buzz^
+@@||harmonyoscloudcdn.com^
+@@www.baidu.com^
+@@www.speedtest.net^
+@@||360buyimg.com^
+@@msedge.api.cdp.microsoft.com^
