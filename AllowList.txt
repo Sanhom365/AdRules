@@ -22,7 +22,6 @@
 @@mirrors.cloud.tencent.com^
 @@/docker.*/$important
 @@||my-netdata.io^
-@@||mcs.snssdk.com^$client='10.0.0.4'
 @@||edgehelper.com^
 @@||iggfastweb.com^
 @@||steamgamepowered.net^
