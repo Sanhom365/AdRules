@@ -37,3 +37,4 @@
 @@www.speedtest.net^
 @@||360buyimg.com^
 @@msedge.api.cdp.microsoft.com^
+@@||115.com^
