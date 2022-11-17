@@ -34,9 +34,10 @@
 @@mirrors.cloud.tencent.com^
 @@/docker.*/$important
 @@registry.npmmirror.com^
+@@pypi.doubanio.com^
 ! netdata
 @@||my-netdata.io^
-! 样子相关
+! 梯子相关
 @@||edgehelper.com^
 @@||iggfastweb.com^
 @@||steamgamepowered.net^
@@ -45,4 +46,3 @@
 @@v5.iggfeed.xyz^
 @@feed.mzke3.buzz^
 @@||harmonyoscloudcdn.com^
-@@pypi.doubanio.com^
