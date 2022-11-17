@@ -33,6 +33,7 @@
 @@mirrors.aliyun.com^
 @@mirrors.cloud.tencent.com^
 @@/docker.*/$important
+@@registry.npmmirror.com^
 ! netdata
 @@||my-netdata.io^
 ! 样子相关
