@@ -2,8 +2,8 @@
 ! Description: Sanhom's AdGuard Home rules allow list.
 ! Homepage: https://github.com/Sanhom365/AdRules
 ! License: 
-! Last modified: 2022-11-16 08:15:00(GMT+8)
-! Version: 1.0.0.2
+! Last modified: 2022-11-17 23:11:00(GMT+8)
+! Version: 1.0.0.4
 ! Powerd by Sanhom
 ! 常用网站
 @@||jd.com^
