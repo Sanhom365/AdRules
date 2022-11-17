@@ -5,6 +5,7 @@
 ! Last modified: 2022-11-16 08:15:00(GMT+8)
 ! Version: 1.0.0.2
 ! Powerd by Sanhom
+! 常用网站
 @@||jd.com^
 @@||jingxi.com^
 @@||etao.com^
@@ -13,7 +14,6 @@
 @@ii.gdt.qq.com^$important
 @@||toutiao.com^
 @@||alipay.com^
-@@mirrors.aliyun.com^
 @@||bilibili.com^
 @@||dingtalk.com^
 @@tc.vip.iqiyi.com^
@@ -23,9 +23,19 @@
 @@||openwrt.org^
 @@||github.com^
 @@me.csdn.net^
+@@www.baidu.com^
+@@www.speedtest.net^
+@@||360buyimg.com^
+@@msedge.api.cdp.microsoft.com^
+@@||115.com^
+@@||ibuscloud.com^
+! 镜像相关
+@@mirrors.aliyun.com^
 @@mirrors.cloud.tencent.com^
 @@/docker.*/$important
+! netdata
 @@||my-netdata.io^
+! 样子相关
 @@||edgehelper.com^
 @@||iggfastweb.com^
 @@||steamgamepowered.net^
@@ -34,9 +44,4 @@
 @@v5.iggfeed.xyz^
 @@feed.mzke3.buzz^
 @@||harmonyoscloudcdn.com^
-@@www.baidu.com^
-@@www.speedtest.net^
-@@||360buyimg.com^
-@@msedge.api.cdp.microsoft.com^
-@@||115.com^
-@@||ibuscloud.com^
+@@pypi.doubanio.com^
