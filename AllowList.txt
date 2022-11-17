@@ -13,6 +13,7 @@
 @@ii.gdt.qq.com^$important
 @@||toutiao.com^
 @@||alipay.com^
+@@mirrors.aliyun.com^
 @@||bilibili.com^
 @@||dingtalk.com^
 @@tc.vip.iqiyi.com^
