@@ -2,7 +2,7 @@
 ! Description: Sanhom's AdGuard Home rules allow list.
 ! Homepage: https://github.com/Sanhom365/AdRules
 ! License: 
-! Last modified: 2022-11-22 18:38:00(GMT+8)
+! Last modified: 2022-11-22 20:16:00(GMT+8)
 ! Version: 1.0.0.6
 ! Powerd by Sanhom
 ! DoT、DoH
@@ -26,6 +26,7 @@
 @@||openwrt.org^
 @@||github.com^
 @@objects.githubusercontent.com^
+@@op.supes.top^
 @@me.csdn.net^
 @@www.baidu.com^
 @@www.speedtest.net^
