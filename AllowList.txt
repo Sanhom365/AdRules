@@ -35,6 +35,7 @@
 @@msedge.api.cdp.microsoft.com^
 @@||115.com^
 @@||ibuscloud.com^
+@@||maycur.com^
 ! 镜像相关
 @@mirrors.aliyun.com^
 @@mirrors.cloud.tencent.com^
