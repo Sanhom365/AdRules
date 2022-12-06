@@ -44,6 +44,10 @@
 @@pypi.doubanio.com^
 ! netdata
 @@||my-netdata.io^
+! BT
+@@tracker.opentrackr.org^
+@@openwebtorrent.com^
+@@||itzmx.com^
 ! 梯子相关
 @@||edgehelper.com^
 @@||iggfastweb.com^
