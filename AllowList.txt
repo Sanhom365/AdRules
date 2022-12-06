@@ -46,7 +46,7 @@
 @@||my-netdata.io^
 ! BT
 @@tracker.opentrackr.org^
-@@openwebtorrent.com^
+@@tracker.openwebtorrent.com^
 @@||itzmx.com^
 ! 梯子相关
 @@||edgehelper.com^
