@@ -2,7 +2,7 @@
 ! Description: Sanhom's AdGuard Home rules allow list.
 ! Homepage: https://github.com/Sanhom365/AdRules
 ! License: 
-! Last modified: 2022-12-06 14:03:00(GMT+8)
+! Last modified: 2022-12-12 18:37:00(GMT+8)
 ! Version: 1.0.0.8
 ! Powerd by Sanhom
 ! DoT、DoH
@@ -42,6 +42,7 @@
 @@/docker.*/$important
 @@registry.npmmirror.com^
 @@pypi.doubanio.com^
+@@mirrors.tuna.tsinghua.edu.cn^
 ! netdata
 @@||my-netdata.io^
 ! 梯子相关
