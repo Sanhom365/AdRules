@@ -2,8 +2,8 @@
 ! Description: Sanhom's AdGuard Home rules allow list.
 ! Homepage: https://github.com/Sanhom365/AdRules
 ! License: 
-! Last modified: 2022-12-18 14:58:00(GMT+8)
-! Version: 1.0.0.9
+! Last modified: 2022-12-18 19:34:00(GMT+8)
+! Version: 1.0.1.0
 ! Powerd by Sanhom
 ! DoT、DoH
 @@dot.360.cn^
@@ -47,11 +47,32 @@
 ! netdata
 @@||my-netdata.io^
 ! 梯子相关
-@@||edgehelper.com^
+@@||msftconnecttest.com^
 @@||iggfastweb.com^
+@@||edgehelper.com^
+@@||harmonyoscloudcdn.com^
 @@||steamgamepowered.net^
 @@||netvigators.xyz^
+@@||huawei-cacahe.com^
+@@||bilibilivideoapi.com^
+@@||pubmed-hub.com^
+@@||huawei-static.com^
+@@||steamgamepowered.com^
+@@||netvigatorscdn.com^
+@@||netvigatorscdn.net^
+@@||netvigatorscdn.xyz^
+@@||mssstatic.com^
+@@||bilibilivideoapi.net^
+@@||iggwebcache.com^
+@@||cache100.xyz^
+@@||malagame.xyz^
+@@||harmonycloudcache.com^
+@@||hktserviceonline.com^
+@@||onnets1.net^
+@@||onnets1.com^
+@@||onnets1.xyz^
+@@||nttsoftgroup.com^
+@@||macyscdn.net^
 @@feed.iggapis.net^
 @@v5.iggfeed.xyz^
 @@feed.mzke3.buzz^
-@@||harmonyoscloudcdn.com^
