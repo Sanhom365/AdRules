@@ -1,15 +1,18 @@
-! Title: AdRules Allowlist
-! Description: Sanhom's AdGuard Home rules allow list.
-! Homepage: https://github.com/Sanhom365/AdRules
-! License: 
-! Last modified: 2022-12-18 19:34:00(GMT+8)
-! Version: 1.0.1.0
+! Title:	AdRules Allowlist
+! Description:	Sanhom's AdGuard Home rules allow list.
+! Homepage:	https://github.com/Sanhom365/AdRules
+! License: 	
+! Last modified:	2022-12-31 10:39:04(GMT+8)
+! Total count:	67
+! Version:	1.0.1.1
 ! Powerd by Sanhom
+! !!!!!!! !
 ! DoT、DoH
 @@dot.360.cn^
 @@doh.360.cn^
 ! 常用网站
 @@||jd.com^
+@@||jddinnovation.com^
 @@||jingxi.com^
 @@t.me^
 @@||etao.com^
