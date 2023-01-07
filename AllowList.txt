@@ -2,8 +2,8 @@
 ! Description:	Sanhom's AdGuard Home rules allow list.
 ! Homepage:	https://github.com/Sanhom365/AdRules
 ! License: 	
-! Last modified:	2022-12-31 10:45:17(GMT+8)
-! Total count:	67
+! Last modified:	2023-01-7 11:05:38(GMT+8)
+! Total count:	69
 ! Version:	1.0.1.1
 ! Powerd by Sanhom
 ! !!!!!!! !
@@ -36,6 +36,9 @@
 @@||115.com^
 @@||ibuscloud.com^
 @@||maycur.com^
+! 教育相关
+@@mp.weixin.qq.com^
+@@v.ouchn.cn^
 ! DDNS
 @@||oray.com^
 @@/dynv6.*/$important
