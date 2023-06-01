@@ -2,19 +2,18 @@
 ! Title:	AdGuard deny list
 ! Description:	Sanhom's AdGuard Home rules deny list.
 ! Homepage:	https://github.com/Sanhom365/AdRules
-! Last modified:	2023-06-01 16:23:25（北京时间）
+! Last modified:	2023-06-01 16:25:08（北京时间）
 !	
 ! Powerd by Sanhom	
 ! Version:	1.0.0.1
-! Total count:	22
+! Total count:	21
 !	
 ! Source name:	AdGuard deny list
 ! Source:	https://raw.githubusercontent.com/Sanhom365/AdRules/main/DenyList.txt
 !	
 !	
-! 防 CorelDRAW 注册登陆（2023.6.1更新）
+! 防 CorelDRAW 注册登陆（2023.6.1更新）	
 ||activate.adobe.com^	
-||apps.corel.com^	
 ||apps.corel.com^	
 ||cloud.coreldraw.app^	
 ||compute-1.amazonaws.com^	
