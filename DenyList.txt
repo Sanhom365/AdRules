@@ -2,10 +2,10 @@
 ! Title:	AdGuard deny list
 ! Description:	Sanhom's AdGuard Home rules deny list.
 ! Homepage:	https://github.com/Sanhom365/AdRules
-! Last modified:	2023-06-01 16:25:08（北京时间）
+! Last modified:	2023-06-01 16:25:39（北京时间）
 !	
 ! Powerd by Sanhom	
-! Version:	1.0.0.1
+! Version:	1.0.0.2
 ! Total count:	21
 !	
 ! Source name:	AdGuard deny list
