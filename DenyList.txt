@@ -2,35 +2,36 @@
 ! Title:	AdGuard deny list
 ! Description:	Sanhom's AdGuard Home rules deny list.
 ! Homepage:	https://github.com/Sanhom365/AdRules
-! Last modified:	2023-04-07 11:07:18（北京时间）
+! Last modified:	2023-06-01 16:23:25（北京时间）
 !	
 ! Powerd by Sanhom	
 ! Version:	1.0.0.1
-! Total count:	21
+! Total count:	22
 !	
 ! Source name:	AdGuard deny list
 ! Source:	https://raw.githubusercontent.com/Sanhom365/AdRules/main/DenyList.txt
 !	
 !	
-! 防 CorelDRAW 注册登陆
-||apps.corel.com^
-||mc.corel.com^
-||origin-mc.corel.com^
-||iws.corel.com^
-||ipm.corel.com^
-||sws.corel.com^
-||dam.corel.com^
-||compute-1.amazonaws.com^
-||apps.corel.com^
-||www.corel.com^
-||content.corel.com^
-||ipp.corel.com^
-||secure.ipp.corel.com^
-||lm.licenses.adobe.com^
-||na2m-pr.licenses.adobe.com^
-||practivate.adobe.com^
-||activate.adobe.com^
-||ereg.adobe.com^
-||wip.adobe.com^
-||lmlicenses.wip4.adobe.com^
-||cloud.coreldraw.app^
+! 防 CorelDRAW 注册登陆（2023.6.1更新）
+||activate.adobe.com^	
+||apps.corel.com^	
+||apps.corel.com^	
+||cloud.coreldraw.app^	
+||compute-1.amazonaws.com^	
+||content.corel.com^	
+||dam.corel.com^	
+||ereg.adobe.com^	
+||hub5btmain.sandai.net^	
+||ipm.corel.com^	
+||ipp.corel.com^	
+||iws.corel.com^	
+||lm.licenses.adobe.com^	
+||lmlicenses.wip4.adobe.com^	
+||mc.corel.com^	
+||na2m-pr.licenses.adobe.com^	
+||origin-mc.corel.com^	
+||practivate.adobe.com^	
+||secure.ipp.corel.com^	
+||sws.corel.com^	
+||wip.adobe.com^	
+||www.corel.com^	
