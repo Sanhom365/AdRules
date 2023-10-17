@@ -2,11 +2,11 @@
 ! Title:	AdGuard allow list
 ! Description:	Sanhom's AdGuard Home rules allow list.
 ! Homepage:	https://github.com/Sanhom365/AdRules
-! Last modified:	2023-01-08 16:28:07（北京时间）
+! Last modified:	2023-10-17 09:46:09（北京时间）
 !	
 ! Powerd by Sanhom	
 ! Version:	1.0.1.3
-! Total count:	72
+! Total count:	73
 !	
 ! Source name:	AdGuard allow list
 ! Source:	https://raw.githubusercontent.com/Sanhom365/AdRules/main/AllowList.txt
@@ -89,5 +89,6 @@
 @@||nttsoftgroup.com^
 @@||macyscdn.net^
 @@feed.iggapis.net^
+@@feed.iggv5.com^
 @@v5.iggfeed.xyz^
 @@feed.mzke3.buzz^
